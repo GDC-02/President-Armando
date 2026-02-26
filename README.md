@@ -1,5 +1,5 @@
 # President-Armando
-President Armando is an ANN I realized in January 2025 as part of a group project for an exam; its objective is predicting the risk of developping Parkinson's disease using as inputs voice recordings.
+President Armando is an ANN I realized in January 2025 as part of a group project for an exam; its objective is predicting the risk of developing Parkinson's disease using as inputs voice recordings.
 
 ---
 
